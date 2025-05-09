@@ -27,7 +27,7 @@ I am interested in 'data analytics', and `Python programming`. ALong my academic
 ## Projects
 
 ### Project 1: 
-[Project 1 PDF](Cive202_Spring2025_Project4_GroupB_WrittenSummary.docx.pdf)  
+[Project 1 PDF](annotated-Cive202_Spring2025_Project4_GroupB_WrittenSummary.docx.pdf)  
 In this Project, I gained a deeper understanding of multiple skills and concepts. I learned how data analysis can influence and potentially bias the interpretation of risk, specifically in the context of natural disasters. In using the National Risk Index (NRI) dataset and conducting a sensitivity analysis, I learned how to assess existing methodologies and explore alternative approaches to calculating risk. We extensively cleaned the data given to us and merged datasets, dealt with missing values, and used Python to generate a proposed risk definition. Creating a new risk definition challenged me to think critically about what determines “risk” and how drastic it can
 vary depending on what is considered a priority.
 
@@ -37,7 +37,7 @@ natural disaster—regardless of the scale comparatively.
 ---
 
 ### Project 2: 
-[Project 2 PDF](CIVE202_Spring2025_GroupK_Project3_Summary-1.docx.pdf)  
+[Project 2 PDF](annotated-CIVE202_Spring2025_GroupK_Project3_Summary-1.docx.pdf)  
 In this Project, the task was to create a set of visual representations regarding the comparisons of varying categories from the data provided in the NHTS and NGSIM files. The NHTS file contains data regarding variables such as vehicle details, travel details, household characteristics, etc. On the other hand, the NGSIM file consists of data regarding the behaviors of specific drivers. The visuals presented in the following report contain relevant information to be presented for the transportation planning meeting. The information contains trends regarding transportation usage as well as driving behavior. Using python code, five graphs were created, including a bar graph, a histogram, a box plot, and two time-series plots.
 
 This project strengthened skills in Python, particularly with data analysis libraries, and to clean, manipulate, and visualize real-world datasets. In producing a professional report tailored to a transportation planning audience, translating raw data into clear, actionable insights using visual storytelling, I was able to further strengthen my writing skills and gain experience in communicating clear and concise results to a client. I was also able to apply critical thinking to identify meaningful variables, compare categories, and design visuals that best represented trends for decision-making
